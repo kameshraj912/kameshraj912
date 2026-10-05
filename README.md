@@ -1,6 +1,6 @@
 ## Hi, I'm Raj
 
-I am in the second year of my Data Science degree at the University of Melbourne. I work across machine learning, statistics, and LLM systems, and I like building thingS
+I am in the second year of my Data Science degree at the University of Melbourne. I work across machine learning, statistics, and LLM systems, and I like building things.
 
 **What I work with**
 
@@ -22,7 +22,7 @@ I am in the second year of my Data Science degree at the University of Melbourne
 |---|---|---|
 | [Sortd](https://github.com/kameshraj912/sortd) | iPhone app that logs Apple Pay spending by itself. 1,270+ unit tests, CI, and a ten-agent build pipeline. | Swift, SwiftUI, SwiftData, TypeScript, Cloudflare Workers |
 | [The Chasing Company](https://thechasingcompany.cc) | AI agents that chase overdue invoices. I lead product and data in a team of three, and built the site. | Astro, Cloudflare Pages |
-| Gene-list size and GO enrichment | GO Research at Melbourne Integrative Genomics. Code is private  | R, clusterProfiler |
+| Gene-list size and GO enrichment | How gene-list size changes GO enrichment results. Research at Melbourne Integrative Genomics; code is private. | R, clusterProfiler |
 
 **Contact**
 

@@ -22,7 +22,7 @@ I am in the second year of my Data Science degree at the University of Melbourne
 |---|---|---|
 | [Sortd](https://github.com/kameshraj912/sortd) | iPhone app that logs Apple Pay spending by itself. 1,270+ unit tests, CI, and a ten-agent build pipeline. | Swift, SwiftUI, SwiftData, TypeScript, Cloudflare Workers |
 | [The Chasing Company](https://thechasingcompany.cc) | AI agents that chase overdue invoices. I lead product and data in a team of three, and built the site. | Astro, Cloudflare Pages |
-| Gene-list size and GO enrichment | Research pipeline at Melbourne Integrative Genomics. Code is private until the work is written up. | R, clusterProfiler |
+| Gene-list size and GO enrichment | GO Research at Melbourne Integrative Genomics. Code is private  | R, clusterProfiler |
 
 **Contact**
 

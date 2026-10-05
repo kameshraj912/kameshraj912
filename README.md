@@ -1,6 +1,6 @@
 ## Hi, I'm Raj
 
-I am in the second year of my Data Science degree at the University of Melbourne. I work across machine learning, statistics, and LLM systems, and I like building things that ship.
+I am in the second year of my Data Science degree at the University of Melbourne. I work across machine learning, statistics, and LLM systems, and I like building thingS
 
 **What I work with**
 
@@ -14,7 +14,7 @@ I am in the second year of my Data Science degree at the University of Melbourne
 
 - Undergraduate researcher at Melbourne Integrative Genomics, building an R pipeline that tests how gene-list size changes Gene Ontology enrichment results (ORA and GSEA).
 - Shipping [Sortd](https://sortd.page), an iPhone spending tracker, through its TestFlight beta.
-- Looking for a summer internship, Nov 2026 to Mar 2027, in data science, machine learning, or software engineering. Singapore or Melbourne.
+- Looking for a summer internship, Nov 2026 to Mar 2027, in data science, machine learning, or software engineering.
 
 **Projects**
 
@@ -23,10 +23,6 @@ I am in the second year of my Data Science degree at the University of Melbourne
 | [Sortd](https://github.com/kameshraj912/sortd) | iPhone app that logs Apple Pay spending by itself. 1,270+ unit tests, CI, and a ten-agent build pipeline. | Swift, SwiftUI, SwiftData, TypeScript, Cloudflare Workers |
 | [The Chasing Company](https://thechasingcompany.cc) | AI agents that chase overdue invoices. I lead product and data in a team of three, and built the site. | Astro, Cloudflare Pages |
 | Gene-list size and GO enrichment | Research pipeline at Melbourne Integrative Genomics. Code is private until the work is written up. | R, clusterProfiler |
-
-**How I work**
-
-I build with AI coding agents (Claude Code) and I say so. My part is deciding what to build, writing the rules the agents work inside, and testing what comes out. The commit history in each repo shows who wrote what.
 
 **Contact**
 

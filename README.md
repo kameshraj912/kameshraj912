@@ -26,4 +26,4 @@ I am in the second year of my Data Science degree at the University of Melbourne
 
 **Contact**
 
-[LinkedIn](https://www.linkedin.com/in/gkameshraj) · kamesh.raj1129@gmail.com
+[LinkedIn](https://www.linkedin.com/in/gkameshraj)

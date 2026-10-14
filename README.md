@@ -14,7 +14,7 @@ I am in the second year of my Data Science degree at the University of Melbourne
 
 - Undergraduate researcher at Melbourne Integrative Genomics, building an R pipeline that tests how gene-list size changes Gene Ontology enrichment results (ORA and GSEA).
 - Shipping [Sortd](https://sortd.page), an iPhone spending tracker, through its TestFlight beta.
-- Looking for a summer internship, Nov 2026 to Mar 2027, in data science, machine learning, or software engineering.
+- Looking for internship in data science, machine learning, or software engineering.
 
 **Projects**
 
